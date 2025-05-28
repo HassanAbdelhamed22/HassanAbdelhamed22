@@ -71,7 +71,18 @@ I'm a passionate **Software Engineer** specializing in front-end development. Wi
 ## 📜 **Certificates**
 - **React.js Diploma** | Route IT Training Center  
 - **Complete JavaScript Course** | Udemy  
-- **Responsive Websites with HTML & CSS** | Udemy  
+- **Responsive Websites with HTML & CSS** | Udemy
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanAbdelhamed22show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAbdelhamed22&layout=compact&langs_count=10&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAbdelhamed22&theme=tokyonight" />
+</div>
 
 
 ## 🤝 **Connect With Me**
