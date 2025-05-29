@@ -164,8 +164,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://hassan-abdelhamed-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanabdelhamedh22)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habdelhamed729@gmail.com)
-
-📱 Phone: [+20 1012854740](tel:+201012854740)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2001012854740)
 
 
 ---
