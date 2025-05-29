@@ -12,13 +12,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>  
 
----
+<div style="margin-top: 20px;"></div>
 
 ## 🛠️ Tech Stack
 
 **React.js | JavaScript | TypeScript | Tailwind CSS | Redux Toolkit | Git & GitHub**
 
----
+<div style="margin-top: 20px;"></div>
 
 ## 🌟 About Me
 
@@ -27,9 +27,8 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 📚 Currently pursuing a degree in **Computer and Artificial Intelligence** at **Helwan University** (2021–2025)  
 💡 I enjoy learning and applying **design patterns**, building modular architectures, and crafting scalable, maintainable code.
 
----
+<div style="margin-top: 20px;"></div>
 
----
 
 ## 🧠 Technical Skills
 
@@ -73,10 +72,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 - Design Patterns  
 - Software Architecture  
 
----
-
-
----
+<div style="margin-top: 20px;"></div>
 
 ## 🏆 Experience
 
@@ -92,7 +88,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 - Automated CRN-based search, Excel uploads, and admin operations  
 - Enhanced integrations using **SOAP**, **REST APIs**, and IBM tools
 
----
+<div style="margin-top: 20px;"></div>
 
 
 ## 💻 Featured Projects
@@ -117,7 +113,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
    *React, TypeScript, Redux Toolkit, Tailwind CSS*  
    - Editor interface with themes, folder management, and search.
 
----
+<div style="margin-top: 20px;"></div>
 
 
 ## 📜 **Certificates**
@@ -125,7 +121,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 - **Complete JavaScript Course** | Udemy  
 - **Responsive Websites with HTML & CSS** | Udemy
 
----
+<div style="margin-top: 20px;"></div>
 
 ## 🧠 Soft Skills
 
@@ -135,7 +131,8 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 - Time Management  
 - Adaptability & Flexibility
 
----
+<div style="margin-top: 20px;"></div>
+
 
 ## 📊 GitHub Stats
 
@@ -149,7 +146,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 </div>
 
 
----
+<div style="margin-top: 20px;"></div>
 
 ## 🔥 Activity Graph
 
@@ -157,7 +154,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanAbdelhamed22&theme=tokyo-night&hide_border=true" />
 </div>
 
----
+<div style="margin-top: 20px;"></div>
 
 ## 🤝 Connect With Me
 
@@ -166,5 +163,3 @@ I'm a passionate **Software Engineer** with a strong focus on **Frontend Develop
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habdelhamed729@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2001012854740)
 
-
----
